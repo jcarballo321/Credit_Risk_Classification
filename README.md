@@ -56,9 +56,9 @@ avg / total       0.99      0.99      0.99      0.99      0.99      0.99     193
 
 The accuracy of Model 1 is highly acceptable since the model categorized the high risk loan with a 94% accuracy.
 
-The accuracy of Model 2 is highly acceptable since the model perfomrmed extremely well with an accuracy of 99%.
+The accuracy of Model 2 is highly acceptable since the model performed extremely well with an accuracy of 99%.
 
-In my opinion it is more important to predict the 1's than the zeroes since a loan going into default can be restructured, refincnaced etc. 
+In my opinion it is more important to predict the 1's than the 0's since a loan going into default can be restructured, refincnaced etc. 
 
-In conclusion I would recoomend both Models but I would choose Model 2 over Model 1 due to it beign more accurate.  
+In conclusion I would recommend both Models but I would choose Model 2 over Model 1 due to it beign more accurate.  
 
